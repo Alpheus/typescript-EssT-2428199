@@ -1,0 +1,6 @@
+{
+  "name": "01_Challenge",
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
+}
